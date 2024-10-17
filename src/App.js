@@ -4,11 +4,10 @@ import About from "./pages/About/About";
 import Projects from "./pages/Projects/Projects";
 import Contact from "./pages/Contact/Contact";
 import SharedLayout from "./components/SharedLayout/SharedLayout";
-import css from "./App.module.css";
 
 function App() {
   return (
-    <div className={css.page}>
+    <div>
       <Routes>
         <Route path="/" element={<SharedLayout />}>
           <Route index element={<HomePage />} />
