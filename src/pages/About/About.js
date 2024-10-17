@@ -35,14 +35,14 @@ function About() {
           </div>
         </div>
         <div>
-          <p className={css.techDescription}>
+          {/* <p className={css.techDescription}>
             <br />
             What I'm about to learn next:
           </p>
           <div className={css.technologiesContainer}>
             <div className={css.techItem}>React Native</div>
             <div className={css.techItem}>TypeScript</div>
-          </div>
+          </div> */}
         </div>
 
         <div className={css.education}>
