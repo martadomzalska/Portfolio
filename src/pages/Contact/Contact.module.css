@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.description {
+  font-family: "Martian Mono", monospace;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.link {
+  font-family: "Martian Mono", monospace;
+  font-size: 15px;
+  color: #0a1027;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
