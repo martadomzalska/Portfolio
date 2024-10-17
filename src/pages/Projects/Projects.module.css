@@ -1,0 +1,45 @@
+.headline {
+  font-family: "Martian Mono", monospace;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+
+.headlineContainer {
+  overflow: hidden;
+  width: 600px;
+  border-bottom: 1px solid black;
+}
+
+.listContainer {
+  padding-top: 20px;
+  width: 600px;
+  height: 600px;
+  scroll-behavior: smooth;
+  overflow: scroll;
+  scrollbar-width: none;
+}
+.projectList {
+  list-style: none;
+}
+
+.projectItem {
+  font-family: "Martian Mono", monospace;
+  font-size: 20px;
+  margin-bottom: 15px;
+  cursor: pointer;
+  transition: font-size 0.3s ease-in-out;
+}
+.projectItem:hover,
+.projectItem:focus {
+  font-size: 30px;
+}
+.link {
+  font-family: "Martian Mono", monospace;
+  color: #0a1027;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
