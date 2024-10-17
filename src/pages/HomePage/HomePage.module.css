@@ -1,0 +1,20 @@
+.container {
+  transition: background 0.5s ease;
+  flex-direction: column;
+  color: #0a1027;
+  padding: 20px;
+}
+
+.headline {
+  font-family: "Martian Mono", monospace;
+  font-size: 100px;
+  /* font-optical-sizing: auto; */
+  font-weight: 600;
+  font-style: normal;
+  margin-bottom: 0;
+}
+
+.description {
+  font-size: 20px;
+  text-decoration: overline;
+}
