@@ -43,9 +43,9 @@ function Projects() {
               className={css.link}
               target="_blank"
               rel="noreferrer noopener"
-              href="https://martadomzalska.github.io/GoIT-Wallet-Frontend/"
+              href="https://goit-walletapp.netlify.app/"
             >
-              GOIT-Wallet-Frontend
+              GOIT-Wallet-App
             </a>
           </li>
           <li className={css.projectItem}>
@@ -117,7 +117,7 @@ function Projects() {
             >
               goit-js-06
             </a>
-          </li>{" "}
+          </li>
           <li className={css.projectItem}>
             <a
               className={css.link}
