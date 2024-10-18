@@ -4,9 +4,9 @@
 
 
 ## Technologies 
-*React
-*React-Router
-*CSS module
-*Resposnive design
+* React
+* React-Router
+* CSS module
+* Resposnive design
 
 
