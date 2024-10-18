@@ -77,3 +77,18 @@
 .link:hover {
   text-decoration: underline;
 }
+@media (min-width: 768px) {
+  .description {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .link {
+    font-size: 20px;
+  }
+  .techDescription {
+    font-size: 15px;
+  }
+  .techItem {
+    font-size: 18px;
+  }
+}
