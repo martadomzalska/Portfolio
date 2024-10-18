@@ -22,3 +22,8 @@
 .link:hover {
   text-decoration: underline;
 }
+@media (min-width: 768px) {
+  .description {
+    font-size: 30px;
+  }
+}
